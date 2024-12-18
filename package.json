@@ -1,7 +1,7 @@
 {
   "name": "tailwind-lession",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build":"npx tailwindcss -i ./src/css/app.css  -o ./src/css/style.css --watch"
